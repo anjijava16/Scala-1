@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;Scala OOP/src/WeatherAdapter&apos;&#x0A;- Original project: &apos;Adapter&apos;&#x0A;- Destination element: &apos;Scala OOP/src/WeatherAdapter&apos;&#x0A;- Original elements:&#x0A;     CenTherm.scala&#x0A;     FarenTemp.scala&#x0A;     TestAdapter.scala&#x0A;     IThermometer.scala" description="Copy files" destination="=Scala OOP/src&lt;WeatherAdapter" element1="src/CenTherm.scala" element2="src/FarenTemp.scala" element3="src/TestAdapter.scala" element4="src/IThermometer.scala" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1447211932413" units="0" version="1.0"/>
+</session>

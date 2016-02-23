@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Scala OOP/src/Indus&apos;&#x0A;- Original project: &apos;Indus&apos;&#x0A;- Destination element: &apos;Scala OOP/src/Indus&apos;&#x0A;- Original elements:&#x0A;     Item.scala&#x0A;     Description.scala&#x0A;     TestIndus.scala" description="Copy files" destination="=Scala OOP/src&lt;Indus" element1="src/Item.scala" element2="src/Description.scala" element3="src/TestIndus.scala" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1447211708337" units="0" version="1.0"/>
+</session>

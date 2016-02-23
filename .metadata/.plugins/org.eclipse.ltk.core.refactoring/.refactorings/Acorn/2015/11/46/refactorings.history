@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 6 elements to &apos;Scala OOP/src/Acorn&apos;&#x0A;- Original project: &apos;Acorn&apos;&#x0A;- Destination element: &apos;Scala OOP/src/Acorn&apos;&#x0A;- Original elements:&#x0A;     Product.scala&#x0A;     Expression.scala&#x0A;     Number.scala&#x0A;     FunCall.scala&#x0A;     Sum.scala&#x0A;     TestAcorn.scala" description="Copy files" destination="=Scala OOP/src&lt;Acorn" element1="src/Product.scala" element2="src/Expression.scala" element3="src/Number.scala" element4="src/FunCall.scala" element5="src/Sum.scala" element6="src/TestAcorn.scala" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1447211866234" units="0" version="1.0"/>
+</session>
